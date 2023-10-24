@@ -6,7 +6,7 @@ import { Raycaster } from 'three';
 Perlu ditambah:
 - Path planet
 - Interaksi saat planet diklik
-- Data planet (setelah interaksi)
+- Data planet (setelah interaksi)   aaaa
 
 */
 
